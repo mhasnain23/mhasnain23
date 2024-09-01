@@ -1,10 +1,10 @@
-- 👋 Hi, I’m Muhammad Hasnain
-- 👀 I’m interested in Cloud Applied GenAI Engineering
-- 🌱 I’m currently learning Tyoeacript
-- 💞️ I’m looking to collaborate on new people if they Intrested in me
-- 📫 How to reach me check social media plateform
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Mine 
+- 👋 Hi, I’m Muhammad Hasnain,
+- 👀 I’m interested in Software Development,
+- 🌱 I’m currently learning Tyoeacript,
+- 💞️ I’m looking to make a stunning website for you,
+- 📫 How to reach me from LinkedIn, Twitter, Facebook, Instagram,
+- 😄 Pronouns: He/Him,
+- ⚡ Fun fact: I treasure to create 3d animated sites,
 
 <!---
 mhasnain23/mhasnain23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,5 +1,25 @@
 # 💫 About Me:
-🔭 I’m currently working on full-stack e-commerce shop<br>👯 I’m looking to collaborate on SAAS platforms and AI websites<br>🤝 I’m looking for help with AI integration in your nextJS projects<br>🌱 I’m currently learning Databases and cloud platforms<br>💬 Ask me about Next.js both client-side and server-side, React.js, Tailwind CSS, UI Libraries, mongoDB, restFullAPI, fetchAPI <br>⚡ Fun fact I've ❤ coding too much to create something ambitious
+# 👋 Hi, I'm Muhammad Hasnain!  
+
+🚀 **Full Stack Developer | AI & SaaS Enthusiast**  
+
+💡 Passionate about building **scalable SaaS, AI-powered apps, and high-performance e-commerce platforms**. I love turning ideas into reality with code!  
+
+## 🔥 What I'm Working On  
+- 🛍 **E-Commerce Marketplace** – Next.js 15, Stripe, Sanity CMS  
+- 🤖 **AI SaaS Projects** – Chat with PDFs, AI automation  
+- 🛠 **Admin Dashboards** – Sanity CMS, data visualization  
+
+## 🎯 Tech & Skills  
+- **Frontend**: Next.js, React.js, Tailwind CSS, ShadCN  
+- **Backend**: Node.js, Express.js, RESTful APIs  
+- **Database**: MongoDB, Firebase, Sanity CMS  
+- **Payments & Auth**: Stripe, Clerk  
+
+## 🤝 Let's Collaborate!  
+💡 **AI-powered Next.js apps, SaaS automation, e-commerce** – Let’s build something amazing together!  
+
+⚡ **Fun Fact**: I ❤ coding too much and thrive on ambitious projects! 🚀  
 
 
 ## 🌐 Socials:
